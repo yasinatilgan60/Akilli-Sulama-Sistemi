@@ -1,0 +1,7 @@
+Kullanilan Araclar;
+
+Arduino 1.6.12
+
+Visual Studio 2015
+
+SQL Server Management Studio 2012

@@ -1,0 +1,10 @@
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\bin\Debug\AkilliSulamaSistemi.exe.config
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\bin\Debug\AkilliSulamaSistemi.exe
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\bin\Debug\AkilliSulamaSistemi.pdb
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.csprojResolveAssemblyReference.cache
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.girisForm.resources
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.Properties.Resources.resources
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.csproj.GenerateResource.Cache
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.exe
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.pdb
+c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.bilgiEkrani.resources
