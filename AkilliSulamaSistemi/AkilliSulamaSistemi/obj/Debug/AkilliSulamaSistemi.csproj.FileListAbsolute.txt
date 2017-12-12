@@ -8,3 +8,6 @@ c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\Akil
 c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.exe
 c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.pdb
 c:\users\atılgan\documents\visual studio 2015\Projects\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.bilgiEkrani.resources
+B:\Bilgisayar\Bilgisayar Mühendisliği 4. sınıf\Gerçek Zamanlı Sistemler\odevgonderimi\AkilliSulamaSistemi\AkilliSulamaSistemi\bin\Debug\AkilliSulamaSistemi.exe.config
+B:\Bilgisayar\Bilgisayar Mühendisliği 4. sınıf\Gerçek Zamanlı Sistemler\odevgonderimi\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.exe
+B:\Bilgisayar\Bilgisayar Mühendisliği 4. sınıf\Gerçek Zamanlı Sistemler\odevgonderimi\AkilliSulamaSistemi\AkilliSulamaSistemi\obj\Debug\AkilliSulamaSistemi.pdb
